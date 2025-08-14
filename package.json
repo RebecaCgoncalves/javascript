@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Minha Primeira api em node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/REBECACGONCALVES/javascript.git"
+  },
+  "author": "Rebeca Cristina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/REBECACGONCALVES/javascript/issues"
+  },
+  "homepage": "https://github.com/REBECACGONCALVES/javascript#readme"
+}
